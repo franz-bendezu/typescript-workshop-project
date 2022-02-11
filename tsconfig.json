@@ -2,5 +2,6 @@
     "compilerOptions": {
       "module": "es2015",
       "noImplicitAny": true,
+      "sourceMap": false,
     }
   }
