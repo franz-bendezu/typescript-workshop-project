@@ -9,7 +9,3 @@ const names: string[] = [
 const fruits: Array<string> = [
     "apple"
 ]
-
-let obj:any = {
-    
-}
