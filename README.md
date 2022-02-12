@@ -1,1 +1,1 @@
-# typescript-workshop-projec
+# typescript workshop project
